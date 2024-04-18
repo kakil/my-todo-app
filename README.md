@@ -1,4 +1,4 @@
 # To Do Web App
 
-## File is deployed here:
+## App is deployed here:
 https://ktodoapp.streamlit.app
